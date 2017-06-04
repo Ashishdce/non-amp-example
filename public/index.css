@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=PlayfairDisplay);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 * {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -15,7 +15,7 @@ body {
     font-size: 22px;
     line-height: 32px;
     color: #333333;
-    font-family: Playfair Display, Serif;
+    font-family: Roboto Display, Serif;
 }
 
 nav {
