@@ -1,0 +1,26 @@
+{
+  "name": "ampexample",
+  "version": "1.0.0",
+  "description": "An example node app for AMP",
+  "main": "index.js",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ashish jangid",
+  "dependencies" : {
+    "express"    : "~4.7.2"
+    },
+     "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashishdce/non-amp-example"
+  },
+  "keywords": [
+    "non-amp",
+    "heroku",
+    "non-amp-example"
+  ],
+  "license": "ISC"
+}
